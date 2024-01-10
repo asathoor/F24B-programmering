@@ -9,4 +9,30 @@ Her er mine kodeeksempler. Den vigtigste mappe er sikkert *boilerplate* - den bl
 * Derefter redigerer du filerne ad libitum
 * Rediger evt. README.md - her kan du skrive, hvad dit projekt går ud på (og ja det her er skrevet i en README.md fil)
 
+## Boilerplate
+
+Filerne i boilerplaten er:
+
+~~~~~~
+├── css
+│   └── css.css
+├── images
+│   └── README.md
+├── index.html
+└── js
+    └── js.js
+~~~~~~
+
+### index.html
+
+Serveren forventer, at der ligger en indexfil i rodmappen. Index-filen er din "forside". Filnavnet skal være index.htm.
+
+### ./css/css.css : Stylesheet
+
+Mappen ./css/ er beregnet til dine stylesheets. Du kan have et eller flere stylesheets alt efter hvor kompliceret dit design eller din webløsning er. 
+
+### ./js/js.js
+
+Boilerplaten linker desuden til et JavaScript, som ikke gør meget andet end at fortælle at det er der. 
+
 / petj
