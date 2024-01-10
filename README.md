@@ -53,4 +53,6 @@ Men hvis du foretrækker andre editorer, så står det dig frit for at bruge den
 * Notepad++
 * |: etc :|
 
+Tekstbehandlingsprogrammer, som *Libre Office*, *Microsoft Word* og lignende programmer kan generelt ikke bruges til koderedigering (med mindre du ved hvad du gør, og selv da er det umådeligt bøvlet).
+
 / petj
