@@ -33,6 +33,6 @@ Mappen ./css/ er beregnet til dine stylesheets. Du kan have et eller flere style
 
 ### ./js/js.js
 
-Boilerplaten linker desuden til et JavaScript, som ikke gør meget andet end at fortælle at det er der. 
+Boilerplaten linker desuden til et JavaScript, som ikke gør meget andet end at fortælle at det er der. På første semester får du en kort introduktion til JavaScript. Emnet foldes for alvor ud på andet semester. 
 
 / petj
