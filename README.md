@@ -2,7 +2,9 @@
 
 ## Første Semester
 
-Her er mine kodeeksempler. Den vigtigste mappe er sikkert *boilerplate* - den bliver model for stort set alle projekter på 1. semester. Hvis du henter dette repository, så kan du:
+Her er mine kodeeksempler til undervisning på første semester af Multimediedesigneruddannelsen. Vi skal arbejde med HTML, CSS og lidt med JavaScript. 
+
+Den vigtigste mappe er sikkert *boilerplate* - den bliver model for stort set alle projekter på 1. semester. Hvis du henter dette repository, så kan du:
 
 * Kopiere mappen med boilerplaten
 * Omdøbe den kopierede mappe til noget mere passende
