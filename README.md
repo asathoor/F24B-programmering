@@ -46,7 +46,7 @@ I mappen images kan du lægge dine billeder. Det er vigtigt at have en god struk
 Husk altid, at dine filer ikke må have navne med mellemrum på en server. Måske virker sagerne på din egen computer; men på en server giver det omgående problemer.
 
 * Ikke sådan: `billede af nogen blomster . png`
-* Men derimod sådan: `billedeAfNogenBlomsetr.png` (CamelCase)
+* Men derimod sådan: `billedeAfNogenBlomster.png` (CamelCase)
 
 ## Editor
 
