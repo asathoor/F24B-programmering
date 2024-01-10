@@ -37,6 +37,17 @@ Mappen ./css/ er beregnet til dine stylesheets. Du kan have et eller flere style
 
 Boilerplaten linker desuden til et JavaScript, som ikke gør meget andet end at fortælle at det er der. På første semester får du en kort introduktion til JavaScript. Emnet foldes for alvor ud på andet semester. 
 
+### ./images/
+
+I mappen images kan du lægge dine billeder. Det er vigtigt at have en god struktur i filer og mapper. Et avanceret website kan består af hundredvis af filer, så det er en god ide at placere dine filer således, at du kan finde dem igen ...
+
+### Mapper og filnavne må ikke indeholde mellemrum 
+
+Husk altid, at dine filer ikke må have navne med mellemrum på en server. Måske virker sagerne på din egen computer; men på en server giver det omgående problemer.
+
+* Ikke sådan: `billede af nogen blomster . png`
+* Men derimod sådan: `billedeAfNogenBlomsetr.png` (CamelCase)
+
 ## Editor
 
 Koden skal redigeres i en editor. I undervisnigen bruger vi generelt *Visual Studio Code*. 
