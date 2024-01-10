@@ -39,12 +39,16 @@ Boilerplaten linker desuden til et JavaScript, som ikke gør meget andet end at 
 
 ## Editor
 
-Koden skal redigeres i en editor. I undervisnigen bruger vi generelt *Visual Studio Code*. Men hvis du foretrækker andre editorer, så står det dig frit for at bruge den editor som passer til dit kreative gemyt. Der findes et hav af editorer, fx:
+Koden skal redigeres i en editor. I undervisnigen bruger vi generelt *Visual Studio Code*. 
+
+* [Download Visual Studio Code her](https://code.visualstudio.com/)
+
+Men hvis du foretrækker andre editorer, så står det dig frit for at bruge den editor som passer til dit kreative gemyt. Der findes et hav af editorer, fx:
 
 * Vi
 * Vim
 * Nano
-* Atom
+* Atom 
 * Brackets
 * Notepad++
 * |: etc :|
