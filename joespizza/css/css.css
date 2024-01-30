@@ -1,0 +1,54 @@
+/**
+ * file: css/css.css
+ * purpose: styling
+ **/
+
+/* Define variables in the :root */
+ :root {
+   --contrast: lime;
+   --backgr: #000;
+ }
+
+/* Use your variables on elements */
+#logo {
+  width: 25%;
+  height: auto;
+}
+
+.orange {
+  color: rgb(214, 112, 23);
+  background-color: rgb(44, 28, 13);
+}
+
+p {
+  color: rgb(33, 135, 33);
+}
+
+article {
+  border: 1px solid red;
+}
+
+footer p {
+  color: rgb(50, 189, 73);
+  background-color:black;
+}
+
+/* Cards opsætning */
+.row {
+  display: flex;
+}
+
+.cards {
+  width: 33%;
+}
+
+.hel {
+  width: 100%;
+}
+
+
+
+
+
+
+
