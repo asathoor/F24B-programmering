@@ -1,0 +1,108 @@
+/**
+ * file: css/css.css
+ * purpose: styling
+ **/
+
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&display=swap');
+/*
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Pacifico', cursive;
+*/
+
+
+/* Variabler til dit design (farver, afstande, fonte ...) */
+ :root {
+   --lys: rgb(98, 197, 98);
+   --kontrast: #000;
+   --andersAnd: #2279e3;
+   --mickeyMouse: #bf263d;
+   --hvid: #f2e5e1;
+
+   /* whitespace */
+   --whiteSp: 10px;
+
+   /* kant */
+   --kant: 12px;
+
+   /* fonte */
+   --fedtMule: font-family: Arial, Helvetica, sans-serif;
+   --bebas: font-family: 'Bebas Neue', sans-serif;
+ }
+
+body {
+  background-color: var(--kontrast);
+  font-family: var(--fedtMule);
+}
+
+p {
+  color: var(--kontrast);
+  margin-top: 11px;
+}
+
+/* Use your variables on elements */
+ main {
+   color: var(--hvid);
+   background-color: var(--andersAnd);
+
+   /* padding */
+   padding-top: var(--whiteSp);
+   padding-left: var(--whiteSp);
+   padding-bottom: var(--whiteSp);
+   padding-right: var(--whiteSp);
+
+   /* kant, eng. border */
+   border: var(--kant) dotted var(--mickeyMouse);
+   border: 23px solid red;
+
+   /* margin */
+   margin-top: 123px;
+ }
+
+ /* responsive billeder */
+ .size {
+  width: 100%;
+  height: auto;
+ }
+
+ /* sætter elementer horisontalt */ 
+ .row {
+  display: flex;
+ }
+
+ /* hero sektion */
+ #hero {
+  height: 100vh;
+  width: 100%;
+  background-image: url('../images/hero.jpg');
+  background-size: cover;
+ }
+
+ h1  {
+  color: var(--hvid);
+  text-align: center;
+  /*font-family: "Lucida Console", "Courier New", monospace;*/
+  font-family: 'Pacifico', cursive;
+  font-size: 2rem;
+ }
+
+ /* gradient */
+.gradient {
+  background: rgb(2,0,36);
+  background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,102,159,1) 23%, rgba(207,35,35,0.16478466386554624) 53%, rgba(38,255,0,1) 86%);
+  background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,102,159,1) 23%, rgba(207,35,35,0.16478466386554624) 53%, rgba(38,255,0,1) 86%);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,102,159,1) 23%, rgba(207,35,35,0.16478466386554624) 53%, rgba(38,255,0,1) 86%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#26ff00",GradientType=1);
+}
+
+#grad {
+  height: 50vh;
+  width:100%;
+}
+
+/* fonte */
+.it {
+  font-style: italic;
+  color: var(--mickeyMouse);
+  font-size: 56px;
+}
