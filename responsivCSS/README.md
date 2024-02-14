@@ -1,11 +1,4 @@
-# Boilerplate: HTML5, CSS and JavaScript
+# Responsiv CSS og introduktion til JavaScript
 
-Here's a quick start for any project.
+Her er filerne til Værktøjskasse 3.
 
-## Usage
-
-* Copy the folder named `boilerplate` in your Filemagager
-* Paste the folder somewhere suitable.
-* Rename the folder to something usefull.
-
-That's it!
